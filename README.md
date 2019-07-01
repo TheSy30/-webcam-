@@ -14,3 +14,6 @@ source ~/Documents/FLIR_ws/devel/setup.bash
 
 rosrun get_image Get_Image.py
 
+攝影機參數
+
+![image](https://raw.githubusercontent.com/TheSy30/yolo3_auto_label/master/pic/Screenshot%20from%202019-07-01%2011-19-07.png)
